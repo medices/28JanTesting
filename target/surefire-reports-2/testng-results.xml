@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-15T03:48:44Z" name="ContiniousTesting" finished-at="2022-03-15T03:48:49Z" duration-ms="5247">
+    <groups>
+    </groups>
+    <test started-at="2022-03-15T03:48:44Z" name="Test1" finished-at="2022-03-15T03:48:49Z" duration-ms="5247">
+      <class name="com.wiki.seleniumScripts.Script2">
+        <test-method signature="wikiSearchtest()[pri:0, instance:com.wiki.seleniumScripts.Script2@1b1426f4]" started-at="2022-03-15T03:48:44Z" name="wikiSearchtest" finished-at="2022-03-15T03:48:49Z" duration-ms="5224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikiSearchtest -->
+      </class> <!-- com.wiki.seleniumScripts.Script2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- ContiniousTesting -->
+</testng-results>
